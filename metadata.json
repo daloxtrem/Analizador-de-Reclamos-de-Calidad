@@ -1,0 +1,5 @@
+{
+  "name": "Analizador de Reclamos de Calidad",
+  "description": "Una aplicación web para analizar, visualizar y comparar versiones de registros de reclamos de calidad desde archivos Excel. Permite detectar cambios, analizar tendencias y generar reportes acumulados.",
+  "requestFramePermissions": []
+}
